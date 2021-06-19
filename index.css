@@ -36,6 +36,7 @@ body{
 .icoo{
     display: none;
     margin: 0 20px;
+    width:calc( 100% - 40px );
 }
 .checbtn{
     font-size: 30px;
